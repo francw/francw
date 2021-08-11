@@ -1,6 +1,6 @@
 - 👋 Hi, I’m William Francia @francw
-- 👀 I’m interested in improving my SQL and data science knowledge
-- 🌱 I’m currently learning 
+- 👀 I’m interested in increasing my knowledge in SQL Python and data science in general
+- 🌱 I’m currently learning Data Science at Bow Valley
 - 💞️ I’m looking to collaborate on data preparation, analysis and business intelligence
 - 📫 How to reach me francia.william@gmail.com
 
